@@ -1,0 +1,26 @@
+.description h1{
+    position: relative;
+    top: 30px;
+    left: -150px;
+}
+.description p{
+    position: relative;
+    top: -19px;
+    left: 22px;
+    font-size: 18px;
+}
+.temperature{
+    position: relative;
+    top: -40px;
+}
+.temperature h1{
+    position: relative;
+    top: 30px;
+    left: -143px;
+}
+.temperature p{
+    position: relative;
+    top: -19px;
+    left: 3px;
+    font-size: 18px;
+}

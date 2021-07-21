@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "New Athletic";
+    src: url("../../fonts/New\ Athletic\ M54.woff") format("woff");
+}
+.FormInput form{
+    position: relative;
+    top: 30px;
+}
+
+.FormInput label{
+    font-family: fantasy;
+    font-size: 45px;
+    letter-spacing: 1px;
+    text-shadow: 0px 3px 3px black;
+    color: white;
+}
+.FormInput input{
+    font-size: 30px;
+    position: relative;
+    left: 5px;
+    top: -3px;
+}
+.FormInput{
+    background-color:rgb(178, 32, 32);
+    width: 800px;
+    height: 150px;
+    position: relative;
+    left: 520px;
+    border-radius: 30px;
+}
+.FormInput button{
+    font-size: 35px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    text-shadow: 0px 2px 3px black;
+    background-color: green;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    left: 13px;
+    top: -1px;
+}
+.FormInput button:hover{
+    background-color: rgb(0, 75, 0);
+}

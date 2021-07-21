@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "New Athletic";
+    src: url("../../fonts/New\ Athletic\ M54.woff") format('woff'),
+         url("../../fonts/New\ Athletic\ M54.woff2") format('woff2');
+}
+
+.title h1{
+    position: relative;
+    color:rgb(178, 32, 32);
+    text-shadow: 0px 3px 4px black;
+    font-size: 80px;
+    letter-spacing: 4px;
+    font-family: "New Athletic";
+}
